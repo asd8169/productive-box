@@ -15,4 +15,4 @@ jobs:
         env:
           GH_TOKEN: 87ed594db1a519c56626fda3ca4929ed2cbf45fd
           GIST_ID: bf1efe7d4ef87358d74ec0d94cc37a24
-          TIMEZONE: Asia/Taipei
+          TIMEZONE: ko-KR
